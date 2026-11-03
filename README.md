@@ -16,7 +16,7 @@ I enjoy learning how systems work and how to make them safer. My experience incl
 Both links lead to portfolio case studies. Source code and internal records are not included.
 
 ## Security learning
-- **Cisco Networking Academy — Ethical Hacker:** course completed, June 2026.
+- **Cisco Networking Academy - Ethical Hacker:** course completed, June 2026.
 - **NCSA x CISCO CTF 2026:** participant with team BasBas, June 2026.
 - **Thailand Cyber Top Talent 2026:** participant with team Banana Fire, August 2026.
 
